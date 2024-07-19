@@ -44,11 +44,11 @@ slots:
     target: {type: container, name: ''}
   slot_1:
     index: 0
-    set_layout_properties: {slot: title-container-slot}
+    set_layout_properties: {slot: main-content-slot}
     target: {type: container, name: ''}
   slot_2:
     index: 0
-    set_layout_properties: {slot: main-content-slot}
+    set_layout_properties: {slot: title-container-slot}
     target: {type: container, name: ''}
   nav_top_slot:
     index: 0

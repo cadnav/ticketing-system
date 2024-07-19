@@ -158,7 +158,7 @@ db_schema:
       admin_ui: {width: 200}
       type: string
 startup: {type: module, module: StartUp}
-name: Clone of Ticketing System
+name: lab-management-system
 startup_form: null
 native_deps:
   head_html: |-
